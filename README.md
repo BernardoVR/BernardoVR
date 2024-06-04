@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BernardoVR
+- 👋 Hi, I’m @Bernardo Ribeiro
 - 👀 I’m interested in job opportunity
 - 🌱 I’m currently learning  Python,Php, SQL..
 - 💞️ I’m looking to collaborate on ...
