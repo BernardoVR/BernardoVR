@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Bernardo Ribeiro
-- 👀 I’m interested in job opportunity
-- 🌱 I’m currently learning  Python,Php, SQL..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : bernardovassao123@hotmail.com
+QA de Automação:
+Profissional com experiência em automação de testes, com expertise em diversas ferramentas e tecnologias, incluindo Selenium, C#, TypeScript, Json, Node.js, SpecFlow, NUnit, e Postman. Tenho sólida prática na criação e execução de testes para aplicações web e APIs, garantindo a qualidade e a confiabilidade dos sistemas. Capaz de desenvolver scripts robustos de automação, buscando sempre otimizar processos e melhorar a eficiência das equipes de desenvolvimento.
 
-<!---
-BernardoVR/BernardoVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Analista Cloud:
+Profissional experiente em suporte e administração de infraestruturas cloud, com habilidades em resolução de problemas em plataformas como EC2, RDS, VPC, ELB, CloudWatch e Route 53. Atuo na triagem de chamados, troubleshooting, restauração de máquinas, configuração de firewalls (Oracle e AWS) e administração de sistemas Windows e Linux. Experiência em automação de eventos com scripts e uso de ferramentas de monitoramento como Zabbix e Grafana. Foco em agilidade e eficiência no atendimento ao cliente final.
